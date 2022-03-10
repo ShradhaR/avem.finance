@@ -1,0 +1,11 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+      "compiler-fixed": "warn",
+      "indent": ["warn", 4],
+      "no-unused-vars":"warn",
+      "contract-name-camelcase": "warn",
+      "reason-string":["warn", {"maxLength":32}],
+      "code-complexity":["warn", 7]
+    }
+}
