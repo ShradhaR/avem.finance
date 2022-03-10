@@ -10,7 +10,7 @@ This contract allows :
 <b>Test Coverage:</b>  Withrdraw and Deposit
 
 ### Likable.sol
-UInteger Rollover Test Smart Contract
+UInteger Rollover Test Smart Contract :
  
 Option 1. Rollover is needed in case of overflow or underflow. <br>
 Option 2: Rollover is NOT needed in case of overflow and/or underflow. (e.g., customer balance). <br>
